@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .button {
+    @apply cursor-pointer px-4 py-2 bg-white font-semibold font-headline text-sm rounded-md transition;
+  }
+
+  .tr {
+    @apply flex flex-col mb-1 sm:table-row;
+  }
+}
+
+.typewriter:after {
+  content: "|";
+  margin-left: 8px;
+  opacity: 1;
+  animation: blink 1s infinite;
+  color: #986dff;
+}
+
+@keyframes blink {
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+}

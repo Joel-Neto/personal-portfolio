@@ -93,12 +93,14 @@ export default function Skills() {
 
             <div className="flex flex-wrap gap-2 font-semibold ">
               {skills.map((skill, index) => (
-                <div
+                <a
                   key={index}
                   className="px-10 py-3 bg-gradient-to-tr from-blue-900 to-blue-800 text-white rounded-3xl"
+                  href={skill.link}
+                  target="_blank"
                 >
                   {skill.name}
-                </div>
+                </a>
               ))}
             </div>
           </div>

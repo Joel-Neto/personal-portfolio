@@ -32,12 +32,6 @@ export default function About() {
               <tbody>
                 <tr className="tr">
                   <td className="font-headline font-bold uppercase text-blue-900">
-                    Idade:
-                  </td>
-                  <td>20 anos</td>
-                </tr>
-                <tr className="tr">
-                  <td className="font-headline font-bold uppercase text-blue-900">
                     Celular:
                   </td>
                   <td>
@@ -79,7 +73,7 @@ export default function About() {
               </tbody>
             </table>
           </div>
-          <div className="absolute -left-2 -top-4 h-24 w-20 rounded-lg bg-gray-600 bg-[url('/img/Foto3x4.jpg')] bg-cover bg-center md:-left-12 md:-top-12 md:h-72 md:w-56"></div>
+          <div className="absolute -left-2 -top-4 h-24 w-20 rounded-lg bg-gray-600 bg-[url('/img/image.png')] bg-cover bg-center md:-left-12 md:-top-12 md:h-72 md:w-56"></div>
         </div>
       </div>
     </section>

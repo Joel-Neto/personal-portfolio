@@ -11,8 +11,8 @@ export default function Footer() {
     },
     {
       name: "Email",
-      description: "joelalvesneto187@gmail.com",
-      link: "mailto:joao-test@testemail.com?subject=Olá...",
+      description: "joelneto.contato01@gmail.com",
+      link: "mailto:joelneto.contato01@gmail.com?subject=Olá...",
       icon: <HiOutlineEnvelope />,
     },
     {

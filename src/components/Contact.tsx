@@ -21,7 +21,7 @@ export default function Contact() {
     {
       name: "Email",
       description: "joelneto.contato01@gmail.com",
-      link: "mailto:joao-test@testemail.com?subject=Olá...",
+      link: "mailto:joelneto.contato01@gmail.com?subject=Olá...",
       icon: <HiOutlineEnvelope className="h-10 w-10" />,
     },
     {

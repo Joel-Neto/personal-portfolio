@@ -49,10 +49,10 @@ export default function About() {
                   </td>
                   <td>
                     <a
-                      href="mailto:joao-test@testemail.com"
+                      href="mailto:joelneto.contato01@gmail.com"
                       className="underline hover:text-blue-800 break-words"
                     >
-                      joelalvesneto187@gmail.com
+                      joelneto.contato01@gmail.com
                     </a>
                   </td>
                 </tr>

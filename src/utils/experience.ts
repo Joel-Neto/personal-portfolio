@@ -7,7 +7,7 @@ export const experience = [
   {
     name: "Monitor em Iniciação Científica - FATEC Votorantim (Fev. 2024 - Presente)",
     description:
-      "Auxílio aos alunos em dúvidas sobre algoritmos e lógica de programação.",
+      "Atuação em projeto de pesquisa voltado ao uso de tecnologias IoT na área de energia, com foco na coleta e transmissão de dados de sistemas fotovoltaicos. O objetivo principal era desenvolver uma solução de baixo custo capaz de coletar parâmetros diretamente dos inversores solares por meio de interfaces seriais, enviando essas informações em tempo real para um servidor remoto, apoiando o planejamento das concessionárias de energia.\nDurante o projeto, explorei o uso de plataformas como Arduino e ESP-32, devido à sua versatilidade, conectividade (WiFi/Bluetooth) e ampla comunidade de suporte. Diante da indisponibilidade do hardware específico para leitura dos inversores, desenvolvemos um protótipo funcional utilizando sensores de temperatura e umidade acoplados a um Arduino. Os dados coletados eram transmitidos para uma API em nuvem e posteriormente exibidos em um dashboard online, simulando o funcionamento do sistema de monitoramento remoto proposto.",
   },
   {
     name: "Estágio em Suporte Técnico (TI) - FAROIT (Out. 2023 - Jul. 2024)",

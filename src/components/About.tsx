@@ -7,13 +7,17 @@ export default function About() {
           <span className="font-handwriting text-4xl">Mim</span>
         </h2>
 
+        <p className="text-sm text-gray-600 mb-2">
+          Sou um desenvolvedor de software Full-Stack com uma paixão genuína por tecnologia e inovação. Atualmente, estou me graduando em Desenvolvimento de Software Multiplataforma na Fatec Votorantim, o que tem fortalecido minha base técnica em desenvolvimento mobile, integração de sistemas e otimização de processos.
+        </p>
+        <p className="text-sm text-gray-600 mb-2">
+          Tenho experiência prática no desenvolvimento de sistemas web e mobile, sempre buscando aplicar boas práticas de engenharia de software, segurança da informação, computação em nuvem e conceitos de machine learning. Estou em constante evolução, aprendendo novas tecnologias e aprimorando minhas habilidades técnicas.
+        </p>
+        <p className="text-sm text-gray-600 mb-2">
+          Além do aspecto técnico, valorizo muito o trabalho em equipe. Desenvolvi competências em liderança, comunicação e relacionamento interpessoal, que me permitem colaborar de forma eficaz, mediar situações e motivar equipes na conquista de objetivos em comum.
+        </p>
         <p className="text-sm text-gray-600">
-          Além de minhas habilidades técnicas, Estou me graduando em
-          Desenvolvimento de Software Multiplataforma na Fatec Votorantim, o que
-          fortalece minha base técnica em desenvolvimento mobile, integração de
-          sistemas e otimização de processos. Minha formação complementa minha
-          experiência prática e me mantém alinhado às melhores práticas do
-          mercado.
+          Este portfólio foi criado para reunir minhas experiências profissionais, projetos, atividades acadêmicas, cursos e aprendizados ao longo da minha trajetória. Ele representa meu crescimento contínuo e minha dedicação ao setor de tecnologia.
         </p>
       </div>
 
